@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jacobibornitiijc00born_0093.png"; bbox 0 0 2101 2849; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 308 304 1668 1958">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 308 304 1668 1958">
+     <span class='ocr_line' id='line_1_1' title="bbox 308 304 1668 1958; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 308 304 1668 1958; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 377 1989 1532 2091">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 377 1989 1532 2091">
+     <span class='ocr_line' id='line_1_2' title="bbox 377 1989 1532 2091; baseline -0.02 -15"><span class='ocrx_word' id='word_1_2' title='bbox 377 1997 614 2091; x_wconf 50' lang='lat' dir='ltr'><em>§Qesctff</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 643 2000 752 2070; x_wconf 76' lang='grc' dir='ltr'><em>υηδ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 779 2004 994 2084; x_wconf 65' lang='grc' dir='ltr'><em>τυαῆέη</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1019 1993 1159 2081; x_wconf 62' lang='grc' dir='ltr'>τυοῆί</span> <span class='ocrx_word' id='word_1_6' title='bbox 1183 1989 1493 2085; x_wconf 58' lang='lat' dir='ltr'><em>fieffl‘ammn</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1509 2015 1532 2053; x_wconf 72' lang='lat' dir='ltr'><em>s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 368 2093 1549 2196">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 368 2090 1549 2196">
+     <span class='ocr_line' id='line_1_3' title="bbox 368 2093 1549 2196; baseline -0.025 -15"><span class='ocrx_word' id='word_1_8' title='bbox 368 2183 372 2196; x_wconf 68' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 478 2104 632 2194; x_wconf 53' lang='grc' dir='ltr'><em>ἰξὶὶείρ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 659 2102 828 2194; x_wconf 67' lang='lat' dir='ltr'>fugen</span> <span class='ocrx_word' id='word_1_11' title='bbox 848 2101 958 2166; x_wconf 76' lang='lat' dir='ltr'><em>vnb</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 991 2124 1069 2163; x_wconf 75' lang='lat' dir='ltr'><em>an</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1100 2094 1275 2162; x_wconf 68' lang='grc' dir='ltr'><em>αηδετ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1315 2093 1511 2185; x_wconf 51' lang='lat' dir='ltr'><em>§auga</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1541 2150 1549 2157; x_wconf 90' lang='grc'><em>,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

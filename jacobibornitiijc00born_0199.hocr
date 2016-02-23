@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jacobibornitiijc00born_0199.png"; bbox 0 0 2101 2849; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 332 1542 569">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 332 1542 569">
+     <span class='ocr_line' id='line_1_1' title="bbox 176 332 1542 487; baseline -0.008 -22"><span class='ocrx_word' id='word_1_1' title='bbox 176 431 178 434; x_wconf 78' lang='grc'>’</span> <span class='ocrx_word' id='word_1_2' title='bbox 202 388 205 389; x_wconf 14' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 278 390 565 465; x_wconf 55' lang='lat' dir='ltr'><em>mnia</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 587 407 651 457; x_wconf 74' lang='lat' dir='ltr'><em>sic</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 662 332 1374 487; x_wconf 47' lang='grc' dir='ltr'><em>Ξκσφιιὲἷεῖἔραέήῶσηίᾶα</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1399 398 1505 453; x_wconf 64' lang='grc' dir='ltr'><em>υἱέι</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1530 439 1542 454; x_wconf 79' lang='grc'><strong><em>,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 212 461 1413 569; baseline -0.014 -26"><span class='ocrx_word' id='word_1_8' title='bbox 212 493 213 496; x_wconf 61' lang='grc'>’</span> <span class='ocrx_word' id='word_1_9' title='bbox 398 480 561 539; x_wconf 62' lang='grc' dir='ltr'><em>ὄΜῖνς</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 595 466 730 535; x_wconf 65' lang='lat' dir='ltr'><em>sonet</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 739 461 901 569; x_wconf 67' lang='lat' dir='ltr'><em>ſjsmk</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 910 475 1044 566; x_wconf 51' lang='lat' dir='ltr'><em>fiſsa</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1076 463 1244 530; x_wconf 55' lang='grc' dir='ltr'><em>[ιἰἶσνίε</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1275 496 1413 528; x_wconf 62' lang='lat' dir='ltr'><strong><em>emus.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 262 598 1616 2076">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 262 598 1616 2076">
+     <span class='ocr_line' id='line_1_3' title="bbox 262 598 1616 2076; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 262 598 1616 2076; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 451 2040 1445 2156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 451 2040 1445 2156">
+     <span class='ocr_line' id='line_1_4' title="bbox 451 2040 1445 2156; baseline -0.017 -29"><span class='ocrx_word' id='word_1_16' title='bbox 451 2041 758 2156; x_wconf 48' lang='lat' dir='ltr'><em>ffb&lt;</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 820 2085 849 2123; x_wconf 77' lang='lat' dir='ltr'><strong>r</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 900 2061 990 2122; x_wconf 58' lang='lat' dir='ltr'><em>te(</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1016 2054 1077 2119; x_wconf 66' lang='lat' dir='ltr'><em>eti</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1108 2040 1369 2144; x_wconf 46' lang='lat' dir='ltr'><em>msfsssscit</em></span> <span class='ocrx_word' id='word_1_21' title='bbox 1435 2101 1445 2110; x_wconf 85' lang='grc'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
